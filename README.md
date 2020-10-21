@@ -1,5 +1,5 @@
 # Face-Recognition
-Implementation of Multi Face Recognition using deep learning and OpenCV.
+Implementation of Multi Face Recognition using python, deep learning and OpenCV.
 
 ## Installation and Setup
 * Fork the repo and clone it.
